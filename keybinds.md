@@ -5,3 +5,5 @@ layout: default
 
 
 # KEYBINDS 
+
+![KEYBINDS](https://i.imgur.com/bXKdTVl.png)
