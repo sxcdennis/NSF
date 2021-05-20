@@ -54,10 +54,10 @@ header h2 {
   color: #fff;
   letter-spacing: 0;
 }
-
+/* WIDTH 940px */
 .inner {
   position: relative;
-  width: 940px;
+  width: 100%;
   margin: 0 auto;
 }
 
@@ -66,9 +66,10 @@ header h2 {
   border-top: solid 1px #fff;
 }
 
+/* WIDTH 690px */
 #main-content {
   float: center;
-  width: 690px;
+  width: 100%;
 }
 
 #main-content img {
