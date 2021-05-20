@@ -5,7 +5,7 @@ layout: default
 
 
 # RULES
-[3~1. Do not be a snowflake 
+1. Do not be a snowflake 
 1. Follow Discords Rules and Regulations 
 1. Do NOT Post Any Gore Or Anything That Is Deemed Questionable Or Illegal 
 1. Do NOT message any of the staff or the owner about issues please go to #support and create a ticket and staff will get to you as quickly as possible 
@@ -26,7 +26,7 @@ layout: default
 1. You Must Always Have A Clear And Working Microphone On The Server 
 1. No hotmic 
 1. You must be at least 18+ to appply for staff 
-1.. Always Follow The New Life Rule upon death 
+1. Always Follow The New Life Rule upon death 
     a. The NLR applies upon death for the first 20 mintues of a RP scene or if the RP scene ends before the 20 mintues 
     b. No Previous Knowledge From Your Old Character Can Be Used. 
     c. Do Not Return To The Spot Of Your Death
