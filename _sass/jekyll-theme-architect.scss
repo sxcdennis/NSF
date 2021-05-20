@@ -203,7 +203,7 @@ form {
 #main-content h1:before {
   padding-right: 0.3em;
   margin-left: -0.9em;
-  color: #9ddcff;
+  color: #fff;
   content: "/";
 }
 
@@ -212,14 +212,14 @@ form {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 22px;
   font-weight: bold;
-  color: #474747;
+  color: #fff;
   text-indent: 4px;
 }
 #main-content h2:before {
   padding-right: 0.3em;
   margin-left: -1.5em;
   content: "//";
-  color: #9ddcff;
+  color: #fff;
 }
 
 #main-content h3 {
@@ -228,7 +228,7 @@ form {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 18px;
   font-weight: bold;
-  color: #474747;
+  color: #fff;
   text-indent: 3px;
 }
 
@@ -236,7 +236,7 @@ form {
   padding-right: 0.3em;
   margin-left: -2em;
   content: "///";
-  color: #9ddcff;
+  color: #fff;
 }
 
 #main-content h4 {
@@ -244,7 +244,7 @@ form {
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 15px;
   font-weight: bold;
-  color: #474747;
+  color: #fff;
   text-indent: 3px;
 }
 
@@ -252,35 +252,35 @@ h4:before {
   padding-right: 0.3em;
   margin-left: -2.8em;
   content: "////";
-  color: #9ddcff;
+  color: #fff;
 }
 
 #main-content h5 {
   margin-bottom: 8px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: 14px;
-  color: #474747;
+  color: #fff;
   text-indent: 3px;
 }
 h5:before {
   padding-right: 0.3em;
   margin-left: -3.2em;
   content: "/////";
-  color: #9ddcff;
+  color: #fff;
 }
 
 #main-content h6 {
   margin-bottom: 8px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
   font-size: .8em;
-  color: #474747;
+  color: #fff;
   text-indent: 3px;
 }
 h6:before {
   padding-right: 0.3em;
   margin-left: -3.7em;
   content: "//////";
-  color: #9ddcff;
+  color: #fff;
 }
 
 p {
@@ -388,7 +388,7 @@ footer a:hover {
     width: 93%;
   }
   header {
-    padding: 20px 0;
+    padding: 0px 0;
   }
   header .inner {
     position: relative;
