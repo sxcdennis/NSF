@@ -6,4 +6,4 @@ layout: default
 
 # KEYBINDS 
 
-![KEYBINDS](https://i.imgur.com/bXKdTVl.png)
+![KEYBINDS](https://i.imgur.com/5mEKnQA.png)
