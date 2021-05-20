@@ -17,7 +17,8 @@ layout: default
 1. If you have suggestions feel free to enter your suggestions in #suggestions
 1. Do Not VDM, RDM, or Metagame  
     a. VDM - Vehicle Deathmatch  
-    b. RDM - Random Deathmatch Do Not Randomly Attack And Interfere With A Player c. Metagame - Using Information From Outside RP: Only The Official NO SNOWFLAKE Roleplay Gamechat And Discord Is Considered In Character  
+    b. RDM - Random Deathmatch Do Not Randomly Attack And Interfere With A Player  
+    c. Metagame - Using Information From Outside RP: Only The Official NO SNOWFLAKE Roleplay Gamechat And Discord Is Considered In Character  
 1. The max amount you can rob for is 100k (100k or Die) 
 1. No scamming for over 100k in game or any IRL money. Doing this will result in a ban depending on the situation 
 1. You must give a 10 second warning before you start a Turf War if there are players within the vicinity 
