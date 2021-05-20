@@ -1,7 +1,7 @@
 # Site
-title:              NO SNOWFLAKE RP
-bio:                'NO SNOWFLAKE RP'
-description:        ""
+title:              NO SNOWFLAKERP 
+bio:                'NO SNOWFLAKERP'
+description:        " "
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -38,13 +38,13 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-#twitter:            username
+twitter:            username
 #facebook:           username
 #github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
@@ -73,4 +73,4 @@ jekyll-mentions:
     base_url: https://github.com
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, LICENSE, Rakefile]
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
